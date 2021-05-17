@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aloky
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning NodeJs
