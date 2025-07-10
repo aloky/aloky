@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aloky
-- 👀 I’m interested in GoLang
-- 🌱 I’m currently learning NodeJs
+- 👀 I’m currently learning GoLang
+- 🌱 I’m interested in NodeJs
